@@ -1,4 +1,6 @@
-Just helping myself keep track of LLM papers that I‘m reading, with an emphasis on inference and model compression.
+Just helping myself keep track of LLM & its security papers that I‘m reading, with an emphasis on inference and model compression.
+
+## LLM
 
 Transformer Architectures
 
@@ -91,6 +93,10 @@ Scaling
 Watermarking
 
 * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+
+## LLM Security
+
+
 
 
 More
